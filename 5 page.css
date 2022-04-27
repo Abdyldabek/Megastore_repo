@@ -1,0 +1,266 @@
+body{
+	background-color: black ;
+}
+
+.block1{
+	display: flex;
+	position: relative;
+	display: block;
+	position: absolute;
+	width: 664px;
+	height: 595px;
+    background: #FFFFFF;
+	box-shadow: 0px 6px 24px rgba(0, 0, 0, 0.1);
+	border-radius: 8px;
+	left: 25%;
+	top: 10%;
+}
+
+
+.btn2{
+	display: inline-block ;
+	font-family: 'Sora';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 25px;
+	text-align: center ;
+	letter-spacing: 1px;
+	color: #FFFFFF;
+	border: 0;
+	position: absolute;
+	width: 290px;
+	height: 43px;
+	left: 189px;
+	top: 515px;
+	background: #232529;
+	border-radius: 4px;
+	
+}
+
+
+.data-salary{
+	display: inline-block;
+	position: absolute;
+	width: 280px;
+	height: 10px;
+	left: -30px;
+	font-size: 16px;
+	top: 40px;
+	text-align: center ;
+	background: transparent;
+	border-radius: 4px ;
+	font-family: 'Sora';
+	font-style: normal;
+	font-weight: 600;
+	color: #000000;
+}
+
+
+.org-name{
+	display: inline-block ;
+	position: absolute;
+	padding-left: 13px;
+	width: 405px ;
+	height: 48px;
+	left:20px;
+	top: 80px;
+	opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+	font-size: 15px;
+}
+
+.position{
+	display: inline-block ;
+	position: absolute;
+	padding-left: 13px;
+	width:210px ;
+	height: 48px;
+	left:432px;
+	top: 80px;
+	opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+	font-size: 15px;
+}
+
+.month-salary1{
+	display: inline-block ;
+	position: absolute;
+	padding-left: 13px;
+	width:321px ;
+	height: 48px;
+	left:20px;
+	top: 145px;
+	opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+	font-size: 15px;
+}
+.month-salary2{
+	display: inline-block ;
+	position: absolute;
+	padding-left: 13px;
+	width:295px ;
+	height: 48px;
+	left:348px;
+	top: 145px;
+	opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+	font-size: 15px;
+}
+
+.credit-information{
+	position: absolute;
+	top: 195px;
+	left: 24px;
+	font-family: 'Sora';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 15px;
+    line-height: 18px;
+    display: flex;
+    align-items: center;
+
+color: #000000;
+
+
+
+}
+
+.tel-bought{
+	display: inline-block ;
+	position: absolute;
+	padding-left: 13px;
+	width:622px ;
+	height: 48px;
+	left:-3px;
+	top: 47px;
+	opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+	font-size: 15px;
+}
+.cost{
+	display: inline-block ;
+	position: absolute;
+	padding-left: 13px;
+	width:206px ;
+	height: 48px;
+	left:-3px;
+	top: 109px;
+	opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+    font-size: 15px;
+}
+
+.amount{
+	display: inline-block ;
+	position: absolute;
+	padding-left: 13px;
+	width:200px ;
+	height: 48px;
+	left:209px;
+	top: 109px;
+	opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+	font-size: 15px;
+}
+.results{
+	display: inline-block ;
+	position: absolute;
+	padding-left: 13px;
+	width:204px ;
+	height: 48px;
+	left:415px;
+	top: 109px;
+	opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+	font-size: 15px;
+
+}
+.credit-type{
+	display: inline-block ;
+	position: absolute;
+	padding-left: 13px;
+	width:200px ;
+	height: 48px;
+	left: -3px;
+	top: 171px;
+	opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+	font-size: 15px;
+
+}
+.credit-term{
+	display: inline-block ;
+	position: absolute;
+	padding-left: 13px;
+	width:180px ;
+	height: 48px;
+	left:209px;
+	top: 171px;
+	opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+	font-size: 15px;
+}
+.point{
+	display: inline-block ;
+	position: absolute;
+	padding-left: 13px;
+	width:622px ;
+	height: 48px;
+	left:21px;
+	top: 429px;
+	opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+	font-size: 15px;
+
+}
+
+.item1{
+	display: inline-block ;
+	position: absolute;
+	width:5.5px ;
+	height: 9px;
+	left:390px;
+	top: 380px;
+	opacity: 0.5;
+    font-size: 15px;
+}
+.item2{
+	display: inline-block ;
+	position: absolute;
+	width:5.5px ;
+	height: 9px;
+	left:196px;
+	top: 380px;
+	opacity: 0.5;
+    font-size: 15px;
+}
+
+.item3{
+	position: absolute;
+	top: 18px;
+	left: 625px;
+	
+}

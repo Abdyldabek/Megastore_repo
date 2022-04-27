@@ -1,0 +1,293 @@
+body{
+	background-color: black ;
+}
+
+.block2{
+	display: flex;
+	position: relative;
+	display: block;
+	position: absolute;
+	width: 664px;
+	height: 576px;
+    background: #FFFFFF;
+	box-shadow: 0px 6px 24px rgba(0, 0, 0, 0.1);
+	border-radius: 8px;
+	left: 25%;
+	top: 10%;
+}
+
+
+.btn2{
+	display: inline-block ;
+	font-family: 'Sora';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 25px;
+	text-align: center ;
+	letter-spacing: 1px;
+	color: #FFFFFF;
+	border: 0;
+	position: absolute;
+	width: 290px;
+	height: 43px;
+	left: 189px;
+	top: 500px;
+	background: #232529;
+	border-radius: 4px;
+	
+}
+
+
+.anketa{
+	display: inline-block;
+	position: absolute;
+	width: 280px;
+	height: 24px;
+	left: 15px;
+	font-size: 16px;
+	top: 40px;
+	text-align: center ;
+	background: transparent;
+	border-radius: 4px ;
+	font-family: 'Sora';
+	font-style: normal;
+	font-weight: 600;
+	color: #000000;
+}
+
+.personal-data{
+	display: inline-block ;
+	position: absolute;
+	width: 198px;
+	height: 14px;
+	top: 67px;
+	text-align: center ;
+	font-family: 'Sora';
+	font-style: normal;
+	font-weight: 400;
+    line-height: 18px;
+	left: -27px;
+	font-size: 15px;
+}
+
+.surname{
+	display: inline-block ;
+	position: absolute;
+	padding-left: 13px;
+	width:200px ;
+	height: 52px;
+	left:24px;
+	top: 115px;
+	opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+	font-size: 15px;
+}
+
+.name{
+	display: inline-block ;
+	position: absolute;
+	padding-left: 13px;
+	width:200px ;
+	height: 52px;
+	left:232px;
+	top: 115px;
+	opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+	font-size: 15px;
+}
+
+.paternal{
+	display: inline-block ;
+	position: absolute;
+	padding-left: 13px;
+	width:200px ;
+	height: 52px;
+	left:440px;
+	top: 115px;
+	opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+	font-size: 15px;
+}
+
+.passport-details{
+	position: absolute;
+	top: 165px;
+	left: 24px;
+	font-style: normal;
+	font-weight: 400;
+	line-height: 18px;
+	align-items: center;
+	font-size: 15px;
+	color: #000000;
+	font-family: 'Sora';
+
+
+}
+
+.birthday{
+	display: inline-block ;
+	position: absolute;
+	padding-left: 13px;
+	width:200px ;
+	height: 52px;
+	left:0px;
+	top: 45px;
+	opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+	font-size: 15px;
+}
+.address{
+	display: inline-block ;
+	position: absolute;
+	padding-left: 13px;
+	width:408px ;
+	height: 52px;
+	left:209px;
+	top: 45px;
+	opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+    font-size: 15px;
+}
+.Idnumber{
+	display: inline-block ;
+	position: absolute;
+	padding-left: 13px;
+	width:200px ;
+	height: 52px;
+	left: 0px;
+	top: 112px;
+	opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+	font-size: 15px;
+}
+.INN{
+	display: inline-block ;
+	position: absolute;
+	padding-left: 13px;
+	width:200px ;
+	height: 52px;
+	left:209px;
+	top: 112px;
+	opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+	font-size: 15px;
+}
+.date-recieve{
+	display: inline-block ;
+	position: absolute;
+	padding-left: 13px;
+	width:200px ;
+	height: 52px;
+	left:417px;
+	top: 112px;
+	opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+	font-size: 15px;
+
+}
+.contact-number{
+	display: inline-block ;
+	position: absolute;
+	padding-left: 13px;
+	width:200px ;
+	height: 52px;
+	left: 0px;
+	top: 179px;
+	opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+	font-size: 15px;
+
+}
+.email-address{
+	display: inline-block ;
+	position: absolute;
+	padding-left: 13px;
+	width:200px ;
+	height: 52px;
+	left:209px;
+	top: 179px;
+	opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+	font-size: 15px;
+}
+.bank-name{
+	display: inline-block ;
+	position: absolute;
+	padding-left: 13px;
+	width:200px ;
+	height: 52px;
+	left:417px;
+	top: 179px;
+	opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+    font-size: 15px;
+
+}
+.actual-address{
+	display: inline-block ;
+	position: absolute;
+	padding-left: 13px;
+	width:408px ;
+	height: 52px;
+	left:24px;
+	top: 411px;
+	opacity: 0.5;
+    border: 0.5px solid #AEAEAE;
+    box-sizing: border-box;
+    border-radius: 8px;
+	font-size: 15px;
+
+}
+
+.item1{
+	display: inline-block ;
+	position: absolute;
+	width:5.5px ;
+	height: 9px;
+	left:614px;
+	top: 360px;
+	opacity: 0.5;
+    font-size: 15px;
+}
+
+.item2{
+	position: absolute;
+	top: 18px;
+	left: 625px;
+	
+}
+.item3{
+	position: absolute;
+	top: 225px;
+	left: 189px;
+	
+}
+.item4{
+	position: absolute;
+	top: 292px;
+	left: 610px;
+	
+}

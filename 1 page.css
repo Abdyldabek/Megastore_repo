@@ -1,0 +1,89 @@
+body{
+	background-color: black ;
+}
+.window1{
+	display: block ;
+	margin: 0 ;
+	position: relative;
+	width: 1265px;
+	height: 705px;
+	background: #000000;
+}
+
+.block1{
+	display: inline-block;
+	position: absolute;
+	width: 510px;
+	height: 219px;
+	left: 360px;
+	top: 224px;
+	background: #FFFFFF;
+	border-radius: 4px;
+}
+
+
+.btn1{
+	display: inline-block ;
+	font-family: 'Sora', serif;
+	font-style: normal;
+	font-weight: 400;
+	font-size: 20px;
+	line-height: 25px;
+	text-align: center ;
+	letter-spacing: 1px;
+	color: #FFFFFF;
+	border: 0;
+	position: absolute;
+	width: 290px;
+	height: 43px;
+	left: 109px;
+	top: 132px;
+	background: #232529;
+	border-radius: 4px;
+}
+
+
+.authorization{
+	display: inline-block;
+	position: absolute;
+	width: 130px;
+	height: 24px;
+	left: 190px;
+	top: 27px;
+	text-align: center ;
+	background: transparent;
+	border-radius: 4px;
+	font-family: 'Sora';
+	font-style: normal;
+	font-weight: 600;
+
+	color: #000000;
+}
+
+.tel-number{
+	display: inline-block ;
+	position: absolute;
+	width: 198px;
+	height: 16px;
+	top: 50px;
+	text-align: center ;
+	font-family: 'Sora';
+	font-style: normal;
+	font-weight: 400;
+	font-size: 14px;
+	line-height: 18px;
+	color: #000000;
+
+}
+
+input{
+	position: absolute;
+	width: 480px;
+	height: 45px;
+	left: 13px;
+	top: 78px;
+
+	border: 0.5px solid #DADADA;
+	box-sizing: border-box;
+	border-radius: 4px;
+}
